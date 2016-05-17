@@ -1,0 +1,9 @@
+ingredientes:
+    -Tortillinas
+    -queso (puede ser oaxaca o )
+    -jamon
+
+Instrucciones
+    pon el queso y el jamon enmedio de 2 tortillinas.
+    ponga el producto de lo anterior en la estufa
+    caliente y espere a que se fderrita
